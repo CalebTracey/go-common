@@ -1,4 +1,4 @@
-module go-common
+module github.com/calebtracey/go-common
 
 go 1.19
 
